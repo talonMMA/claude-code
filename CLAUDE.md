@@ -28,7 +28,7 @@ If a study task seems to require modifying source code, you are misunderstanding
 
 ## Study Output Conventions
 
-- Study reports go in the project root (e.g., `S01-Production-Mapping-Report.md`)
+- Study reports go in dedicated study directories (e.g., `class-101-prototype-to-production/`)
 - Use descriptive filenames that indicate the topic
 - Reports should map theoretical concepts to actual source code locations (file:line)
 

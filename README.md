@@ -30,7 +30,7 @@ This repository is maintained for:
 
 | File | Description |
 |------|-------------|
-| `S01-Production-Mapping-Report.md` | Agent Loop: mapping S01 theory to production implementation |
+| `class-101-prototype-to-production/S01-Production-Mapping-Report.md` | Agent Loop: mapping S01 theory to production implementation |
 
 ---
 
@@ -62,7 +62,8 @@ src/                          # [READ-ONLY] Original source code
 ├── coordinator/              # Multi-agent orchestration
 └── ...
 
-S01-Production-Mapping-Report.md   # Study report
+class-101-prototype-to-production/  # Study reports series
+  S01-Production-Mapping-Report.md
 CLAUDE.md                          # AI assistant rules for this repo
 ```
 
